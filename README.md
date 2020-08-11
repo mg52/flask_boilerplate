@@ -1,7 +1,6 @@
-# flask_postgresql
+# flask_boilerplate
 
-Python Flask Rest API with PostgreSQL
-
+Python Flask Rest API with PostgreSQL. Dummy Credential for auth: username: test, password: test
 To Run:
 <br/>
 pip install -r requirements.txt
