@@ -1,6 +1,6 @@
 # flask_boilerplate
 
-Python Flask Rest API with PostgreSQL. Dummy Credential for auth: username: test, password: test
+Python Flask Rest API with PostgreSQL, JWT Token, Swagger UI. Dummy Credential for auth: username: test, password: test
 <br/>
 To Run:
 <br/>
